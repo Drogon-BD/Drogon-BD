@@ -4,6 +4,14 @@
 - 🌱 Estudando HTML, CSS, JS e C++
 - 🌎 Descobrindo o mundo da tecnologia
 
+##
+
+### Hi everyone! Be welcome 👋
+
+- 🔭 Looking for my first opportunity
+- 🌱 Learning HTML, CSS, JS e C++
+- 🌎 Discovering the world of technology
+
 <!--Status do GITHUB-->
 <div align="center">
   <a href="https://github.com/jordanmello">
