@@ -39,4 +39,4 @@
   
  </div>
   
-  <!--Este READ-ME foi criado com base no vídeo da Rafaella Ballerini no youtube: https://www.youtube.com/watch?v=TsaLQAetPLU -->
+  <!--Este READ-ME foi criado com base no tutorial da Rafaella Ballerini no youtube: https://www.youtube.com/watch?v=TsaLQAetPLU -->
